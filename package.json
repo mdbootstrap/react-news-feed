@@ -1,8 +1,7 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
-  "description": "template for mdb-react-ui-kit",
-  "private": true,
+  "name": "@mdbootstrap/react-news-feed",
+  "version": "1.0.0",
+  "description": "Responsive React News Feed templates built with Bootstrap 5. News article feed, instagram, facebook and twitter-like feed, posts with comments, social section & more.",
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
@@ -19,7 +18,17 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "js",
+    "news",
+    "feed",
+    "news-feed"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
@@ -34,5 +43,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-news-feed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-news-feed/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/news-feed"
 }
